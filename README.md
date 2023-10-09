@@ -9,16 +9,13 @@
 
 <center>
 <div id="badges">
-  <a href="https://vk.com/aniime_guy" >
-    <img src="https://img.icons8.com/?size=512&id=13977&format=png"width="40" height="40"/>
-  </a>
-  <a href="https://t.me/Ilham06">
+  <a href="https://t.me/Mirya53">
     <img src="https://img.icons8.com/?size=512&id=63306&format=png"width="40" height="40"/>
   </a> 
-  <a href="https://www.youtube.com/channel/UC9m1N5x0OXWihGpR50Yk35g">
+  <a href="https://www.youtube.com/@xsvebmxx/">
     <img src="https://img.icons8.com/?size=512&id=13983&format=png"width="40" height="40" />
   </a>
-  <a href="https://discord.com/channels/1019531122239094794/1019531122239094801">
+  <a href="https://discordapp.com/users/758450975915900959">
     <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="40" height="40"/>
   </a>
 </div>
