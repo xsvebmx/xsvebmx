@@ -7,7 +7,8 @@
 ### My stats:
 ![](https://github-readme-stats.vercel.app/api?username=xsvebmx&theme=shadow_red&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsvebmx&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsvebmx&layout=compact&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Other accounts:
 <center>
 <div id="badges">
