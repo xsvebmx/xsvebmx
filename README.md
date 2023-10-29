@@ -4,6 +4,10 @@
 ### Skills:
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="40" height="40"/>
 
+### My stats:
+![](https://github-readme-stats.vercel.app/api?username=xsvebmx&theme=shadow_red&show_icons=true)
+
+
 ### Other accounts:
 <center>
 <div id="badges">
@@ -20,3 +24,4 @@
 </center>
 
 ----
+
