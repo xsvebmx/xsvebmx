@@ -1,12 +1,13 @@
-### Skills:
+<h1>Skills</h1>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="40" height="40"/>
 
-### My stats:
+<h1>My stats</h1>
+
 ![](https://github-readme-stats.vercel.app/api?username=xsvebmx&theme=shadow_red&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsvebmx&layout=compact&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
-### Other accounts:
+<h1>Other accounts</h1>
 <center>
 <div id="badges">
   <a href="https://t.me/Mirya53">
@@ -20,6 +21,4 @@
   </a>
 </div>
 </center>
-
-----
 
