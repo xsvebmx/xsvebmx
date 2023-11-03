@@ -5,7 +5,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=xsvebmx&theme=shadow_red&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsvebmx&layout=compact&theme=shadow_red&hidden=HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsvebmx&layout=compact&theme=shadow_red&hidden=html)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>Other accounts</h1>
 <center>
