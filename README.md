@@ -4,17 +4,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsvebmx&layout=compact&theme=shadow_red&&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
-<center>
-<div id="badges">
-  <a href="https://t.me/Mirya53">
-    <img src="https://img.icons8.com/?size=512&id=63306&format=png"width="40" height="40"/>
-  </a> 
-  <a href="https://www.youtube.com/@xsvebmxx/">
-    <img src="https://img.icons8.com/?size=512&id=13983&format=png"width="40" height="40" />
-  </a>
-  <a href="https://discordapp.com/users/758450975915900959">
-    <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="40" height="40"/>
-  </a>
-</div>
-</center>
+<a href="https://t.me/Mirya53">
+  <img src="https://img.icons8.com/?size=512&id=63306&format=png"width="40" height="40"/>
+</a> 
+  
+<a href="https://www.youtube.com/@xsvebmxx/">
+  <img src="https://img.icons8.com/?size=512&id=13983&format=png"width="40" height="40" />
+</a>
+  
+<a href="https://discordapp.com/users/758450975915900959">
+  <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="40" height="40"/>
+</a>
 
